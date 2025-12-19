@@ -105,7 +105,7 @@ export const skills = [
       {
         name: "MySQL",
         image:
-          "https://cdn.worldvectorlogo.com/logos/mysql-logo.svg",
+          "https://cdn.worldvectorlogo.com/logos/mysql-2.svg",
       },
       {
         name: "MongoDB",
@@ -487,3 +487,4 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
